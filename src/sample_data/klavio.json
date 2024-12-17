@@ -1,0 +1,61 @@
+{
+        "id": "fba82da7-68ca-46bd-be12-1ce22ddee438",
+        "status": "active",
+        "title": "Klavio",
+        "description": null,
+        "json_data": {
+            "klaviyo_company_id": "YaWahk",
+            "klavio_private_token": "pk_38605e79c783c2ee90be23ce9b69af32f4",
+            "klaviyo_flows": [
+                {
+                    "name": "Abandoned Cart",
+                    "id": "SArZXy",
+                    "type": "conversion"
+                },
+                {
+                    "name": "You forgot a battery",
+                    "id": "Rwv3HP",
+                    "type": "conversion"
+                },
+                {
+                    "name": "Welcome",
+                    "id": "SfcYya",
+                    "type": "conversion"
+                }
+            ],
+            "klaviyo_metrics": [
+                {
+                    "name": "placed-order",
+                    "id": "Vpsmca",
+                    "type": "conversion"
+                },
+                {
+                    "name": "started-checkout",
+                    "id": "Y9ReiR",
+                    "type": "conversion"
+                }
+            ],
+            "klaviyo_lists": [
+                {
+                    "klaviyo_company_id": "YaWahk",
+                    "PRIVATE_API_KEY": "pk_7630cce4b3a9be5416e2acaec44d2f06ff",
+                    "list_id": "YwMMPz",
+                    "flow_id": "SArZXy",
+                    "category": "abandon_cart_list"
+                },
+                {
+                    "klaviyo_company_id": "XE2pmR",
+                    "PRIVATE_API_KEY": "pk_7630cce4b3a9be5416e2acaec44d2f06ff",
+                    "list_id": "TFTVzm",
+                    "category": "completed_orders_list"
+                }
+            ]
+        },
+        "type": "klavio_private",
+        "token": "pk_38605e79c783c2ee90be23ce9b69af32f4",
+        "store_id": {
+            "id": "7ea9c569-a453-4036-b2fe-03bf34d6056a",
+            "store_name": "Scorched Survival"
+        },
+        "json_settings": null
+    }

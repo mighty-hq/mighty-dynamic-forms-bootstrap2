@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-5-starter",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "5.2.3"
+  },
+  "devDependencies": {
+    "@webpixels/css": "1.2.6",
+    "sass": "~1.64.2",
+    "vite": "^4.4.9"
+  }
+}
